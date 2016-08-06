@@ -60,6 +60,5 @@
                         (item "Elixir of the Mongoose" 5 7)
                         (item "Sulfuras, Hand Of Ragnaros" 0 80)
                         (item "Backstage passes to a TAFKAL80ETC concert" 15 20)]]
-        (println inventory)
-    
-        (println (update-quality inventory))))
+   
+        (update-quality inventory)))
